@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Interface_Icons/delete_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,23 C18.0751322,23 23,18.0751322 23,12 C23,5.92486775 18.0751322,1 12,1 C5.92486775,1 1,5.92486775 1,12 C1,18.0751322 5.92486775,23 12,23 Z M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z" id="Oval" fill="#000000" fill-rule="nonzero"></path>
+        <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="6.95079444 7.65790122 7.65790122 6.95079444 17.0492056 16.3420988 16.3420988 17.0492056"></polygon>
+        <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="7.65790122 17.0492056 6.95079444 16.3420988 16.3420988 6.95079444 17.0492056 7.65790122"></polygon>
+    </g>
+</svg>
