@@ -17,3 +17,29 @@ flutter:
   assets:
   - assets/food/
   - assets/interface/
+  - assets/fonts/SourceSansPro-Bold.ttf
+  - assets/fonts/SourceSansPro-Semibold.ttf
+  - assets/fonts/SourceSansPro-Regular.ttf
+  - assets/fonts/SourceSerifPro-Regular.ttf
+  - assets/fonts/SourceSerifPro-It.ttf
+  - assets/fonts/SourceSerifPro-SemiboldIt.ttf
+
+  fonts:
+  - family: SourceSansPro
+    fonts:
+    - asset: assets/fonts/SourceSansPro-Regular.ttf
+      weight: 500
+    - asset: assets/fonts/SourceSansPro-Semibold.ttf
+      weight: 600
+    - asset: assets/fonts/SourceSansPro-Bold.ttf
+      weight: 700
+  - family: SourceSerifPro
+    fonts:
+    - asset: assets/fonts/SourceSerifPro-Regular.ttf
+      weight: 500
+    - asset: assets/fonts/SourceSerifPro-SemiboldIt.ttf
+      weight: 600
+      style: italic
+    - asset: assets/fonts/SourceSerifPro-It.ttf
+      weight: 500
+      style: italic
