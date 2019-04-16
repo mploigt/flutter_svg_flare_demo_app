@@ -22,8 +22,9 @@ class MyApp extends StatelessWidget {
 }
 
 List getFiles(type) {
-  var dir = './Users/maik/AndroidStudioProjects/flutter_demo_app/assets/$type/';
+  var dir = '/Users/maik/AndroidStudioProjects/flutter_demo_app/assets/$type/';
   var iconDir = Directory(dir);
+
   var icons = [];
   iconDir
       .listSync(recursive: false, followLinks: false)
@@ -33,6 +34,7 @@ List getFiles(type) {
       icons.add(fileName);
     }
   });
+  icons.sort((a, b) => a.compareTo(b.toString()));
   return icons;
 }
 
