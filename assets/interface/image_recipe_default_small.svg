@@ -1,0 +1,16 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.66 65.82">
+    <g id="Ebene_2" data-name="Ebene 2">
+        <g id="Layer_1" data-name="Layer 1">
+            <path style="fill:none;stroke-miterlimit:10;stroke-width:2px;stroke:#618f30;" d="M9.73,11.87s27.59,23.45,5.54,30.25C-3.89,48-1.68,24.33,9.73,11.87Z"/>
+            <path style="fill:none;stroke-miterlimit:10;stroke-width:2px;stroke:#618f30;" d="M10.61,21.9s-.82,23.31,14,42.92"/>
+            <path style="fill:none;stroke-miterlimit:10;stroke-width:2px;stroke-linecap:round;stroke:#e98868;" d="M72.35,39.65a20.71,20.71,0,1,0-27.28,16,.74.74,0,0,1,.5.68,2.84,2.84,0,0,0,5.58,1,.76.76,0,0,1,.69-.48A20.69,20.69,0,0,0,72.35,39.65Z"/>
+            <path style="fill:none;stroke-miterlimit:10;stroke-width:2px;stroke-linecap:round;stroke:#e98868;" d="M47,3.54c2.39.67,8.41,3,7,11.72,0,0-11.16-1.49-8.16-11.14A.9.9,0,0,1,47,3.54Z"/>
+            <path style="fill:none;stroke-miterlimit:10;stroke-width:2px;stroke-linecap:round;stroke:#e98868;" d="M62.36,9.2a7.1,7.1,0,0,0-7.74,5.66"/>
+            <circle style="fill:#e98868;" cx="62.7" cy="46.49" r="1.15"/>
+            <circle style="fill:#e98868;" cx="56.54" cy="45.89" r="1.15"/>
+            <circle style="fill:#e98868;" cx="62.1" cy="41.22" r="1.15"/>
+            <circle style="fill:none;stroke-miterlimit:10;stroke-width:2px;stroke:#618f30;" cx="19.16" cy="5.1" r="4.1"/>
+        </g>
+    </g>
+</svg>
