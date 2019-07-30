@@ -1,5 +1,5 @@
-name: flutter_demo_app
-description: Demonstrates the graphics bug
+name: flutter_svg_flare_demo_app
+description: Testing svg and flare assets
 
 dependencies:
   flutter:

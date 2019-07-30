@@ -1,8 +1,9 @@
-# flutter_demo_app
+# flutter_svg_flare_demo_app
 
-A new Flutter application.
+Testing svg and flare assets
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+1. Copy all svg and flare assets with their folders to /assets
+2. run app
+3. check if everything looks ok
